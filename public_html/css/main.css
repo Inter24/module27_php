@@ -1,0 +1,14 @@
+.gallery_list {
+    width:100%;
+}
+
+.gallery_item {
+    width:18%;    
+    display: inline-block;
+    margin:1%;
+    vertical-align: top;
+}
+
+.gallery_item img {
+    width:100%;
+}

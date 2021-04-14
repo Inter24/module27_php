@@ -1,0 +1,1 @@
+<a href="login.php">Авторизация</a> | <a href="register.php">Регистрация</a>
